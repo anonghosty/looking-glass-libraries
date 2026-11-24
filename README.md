@@ -1,8 +1,9 @@
 # Looking Glass libraries
 
 The Python library files (wheels) of [Looking Glass](https://github.com/anonghosty/looking-glass): one release here
-for each Looking Glass release from v2026.11.21.3 on, with the same tag. That release was the first whose libraries are
-locked by hash; older releases do not use this repository.
+for each Looking Glass release from v2026.11.22.3 on, with the same tag. Earlier releases were withdrawn; the first
+releases whose libraries are locked by hash came shortly before it, and releases before that do not use this
+repository.
 
 **The files are not in this repository's code: they are attached to its
 [Releases](https://github.com/anonghosty/looking-glass-libraries/releases).** Each release carries:
